@@ -1,0 +1,130 @@
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocDBClientBulk.exe.config
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocDBClientBulk.exe
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocDBClientBulk.pdb
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\System.Spatial.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\System.Spatial.xml
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\obj\Debug\DocDBClientBulk.csprojResolveAssemblyReference.cache
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\obj\Debug\DocDBClientBulk.exe
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\obj\Debug\DocDBClientBulk.pdb
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\addActiveTransaction.js
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\bulkDelete.js
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\bulkImport.js
+C:\Users\Cefalo\Downloads\azure-documentdb-dotnet-master\azure-documentdb-dotnet-master\samples\clientside-transactions\DocDBClientBulk\DocDBClientBulk\bin\Debug\removeActiveTransaction.js
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\addActiveTransaction.js
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\bulkDelete.js
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\bulkImport.js
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\removeActiveTransaction.js
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocDBClientBulk.exe.config
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocDBClientBulk.exe
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\DocDBClientBulk.pdb
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\System.Spatial.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\System.Spatial.xml
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\obj\Debug\DocDBClientBulk.csprojResolveAssemblyReference.cache
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\obj\Debug\DocDBClientBulk.exe
+C:\Users\Cefalo\Documents\Visual Studio 2015\Projects\DocDBClientBulk\DocDBClientBulk\obj\Debug\DocDBClientBulk.pdb
